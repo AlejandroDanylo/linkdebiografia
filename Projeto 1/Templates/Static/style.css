@@ -1,0 +1,95 @@
+body{
+    margin-top: 0%;
+    background-color: black;
+}
+
+.caixa{
+    position: relative;
+    display: inline-block;
+    margin-left: 440px;
+}
+
+.caixa-texto{
+    position: absolute;
+    top: 30px;
+    left: 5px;
+    width: 110px;
+    height: 110px;
+}
+
+.caixa-image {
+    position: absolute;
+}
+
+.caixa-div {
+    position: absolute;
+    display: flex;
+    left: 56px;
+    top: 200px;
+    width: 115px;
+    height: 115px;
+}
+
+.portifolio{
+    position: absolute;
+    top: 170px;
+    left: 50px;
+}
+
+.caixa-div-image2{
+    position: absolute;
+    display: flex;
+    top: 290px;
+    left: 180px;
+    width: 115px;
+    height: 115px;
+}
+
+.instagram{
+    position: absolute;
+    top: 270px;
+    left: 190px;
+}
+
+#insta{
+    text-decoration: none;
+    list-style: none;
+    color: #FFF;
+    text-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.25);
+    font-family: Linden Hill;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.caixa-div-image3{
+    position: absolute;
+    display: flex;
+    top: 380px;
+    left: 59px;
+    width: 115px;
+    height: 115px;
+}
+
+.spotify{
+    position: absolute;
+    top: 350px;
+    left: 59px;
+}
+
+.caixa-div-image4{
+    position: absolute;
+    display: flex;
+    top: 470px;
+    left: 180px;
+    width: 115px;
+    height: 115px;
+}
+
+.livros{
+    position: absolute;
+    top: 440px;
+    left: 180px;
+}
